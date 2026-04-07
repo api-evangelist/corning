@@ -1,7 +1,12 @@
 aid: corning
-url: https://raw.githubusercontent.com/api-evangelist/corning/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/corning/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.corning.com
+description: >-
+  Corning is a global leader in materials science with expertise in glass science,
+  ceramic science, and optical physics, producing products for telecommunications,
+  mobile consumer electronics, display technology, automotive, and life sciences.
