@@ -1,6 +1,6 @@
 aid: corning
 name: Corning
-x-type: company
+kind: company
 description: >-
   Corning Incorporated is a Fortune 500 American technology company that
   specializes in glass science, ceramic science, and optical physics. Founded
