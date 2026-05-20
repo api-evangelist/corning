@@ -40,6 +40,8 @@ modified: '2026-04-28'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/corning-incorporated
   - type: Website
     url: https://www.corning.com
   - type: AboutUs
