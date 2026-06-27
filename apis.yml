@@ -68,7 +68,7 @@ common:
     url: https://www.corning.com/worldwide/en/careers.html
   - type: PrivacyPolicy
     url: https://www.corning.com/worldwide/en/privacy-statement.html
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.corning.com/worldwide/en/terms-of-use.html
   - type: Contact
     url: https://www.corning.com/worldwide/en/contact-us.html
