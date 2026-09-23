@@ -1,7 +1,9 @@
 ---
 title: Nvidia, Corning partner on three new optical factories NC ...
 url: https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html
-date: '2026-05-25'
+published: '2026-05-06'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Corning" press release artificial intelligence'
 position: 4
 source: serpapi-google
