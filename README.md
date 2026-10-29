@@ -1,4 +1,4 @@
-# Corning (corning)
+# Corning
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Corning Incorporated is a Fortune 500 American technology company that specializes in glass science, ceramic science, and optical physics. Founded in 1851, Corning manufactures specialty glass, ceramics, and related materials and technologies for industrial and scientific applications. Corning's businesses include Optical Communications, Display Technologies, Specialty Materials (Gorilla Glass), Environmental Technologies, Life Sciences, and Pharmaceutical Technologies.
+Corning Incorporated is a Fortune 500 American technology company that specializes in glass science, ceramic science, and optical physics. Founded in 1851, Corning manufactures specialty glass, ceramics, and related materials and technologies for industrial and scientific applications. Corning's businesses include Optical Communications (fiber optic cable and hardware), Display Technologies (LCD and OLED glass substrates), Specialty Materials (Gorilla Glass for mobile devices), Environmental Technologies (ceramic substrates and filters for emissions control), and Life Sciences (laboratory glassware, cell culture, and bioprocess products). Corning does not publish a public developer API.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/corning/refs/heads/main/apis.yml)
+**Areas:** Automotive · Ceramics · Display Glass · Emissions Control · Fiber Optics · Fortune 500 · Glass Science · Gorilla Glass · Life Sciences · Manufacturing · Materials Science · Mobile Devices
 
-## Scope
+## Corning on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Internal
-- **x-type:** company
+Everything profiled for Corning is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/corning/](https://apis.io/providers/corning/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Automotive, Ceramics, Display Glass, Emissions Control, Fiber Optics, Fortune 500, Glass Science, Gorilla Glass, Life Sciences, Manufacturing, Materials Science, Mobile Devices, Optical Communications, Optics, Pharmaceutical Glass, Specialty Materials
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Corning Domain Security](https://apis.io/security/corning/corning-domain-security/)
 
-Corning does not publish a public developer API. The company's product lines are sold through B2B sales channels and distributors and do not include a documented programmatic interface for external developers.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.corning.com)
-- [About Us](https://www.corning.com/about_us.html)
-- [Optical Communications](https://www.corning.com/worldwide/en/products/communication-networks.html)
-- [Display Technologies](https://www.corning.com/worldwide/en/products/display-glass.html)
-- [Specialty Materials](https://www.corning.com/worldwide/en/products/specialty-glass-ceramics.html)
-- [Environmental Technologies](https://www.corning.com/worldwide/en/products/environmental-technologies.html)
-- [Life Sciences](https://www.corning.com/worldwide/en/products/life-sciences.html)
-- [Investor Relations](https://investor.corning.com/)
-- [LinkedIn](https://www.linkedin.com/company/corning-incorporated)
+- [Terms of service](https://www.corning.com/worldwide/en/terms-of-use.html)
+- [Privacy policy](https://www.corning.com/worldwide/en/privacy-statement.html)
+- [GitHub](https://github.com/corning-incorporated)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/corning/](https://apis.io/providers/corning/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Corning: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/corning/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
